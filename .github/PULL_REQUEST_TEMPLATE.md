@@ -1,6 +1,6 @@
 # Story Title
 
-[This is the Issue Title](https://github.com/kuru-project/tamaki-gamify/issues/1)
+[This is the Issue Title](https://github.com/kuru-project/tamaki-currency/issues/1)
 
 ## Changes made
 

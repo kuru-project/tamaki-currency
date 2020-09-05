@@ -17,4 +17,4 @@ This Task will...
 
 <!-- The link below should link to its Epic Parent. -->
 
-[Feature: Awesome Feature Title](https://github.com/kuru-project/tamaki-gamify/issues/1)
+[Feature: Awesome Feature Title](https://github.com/kuru-project/tamaki-currency/issues/1)
