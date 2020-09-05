@@ -1,1 +1,1 @@
-### Plugin: Gamify
+### Plugin: Currency
